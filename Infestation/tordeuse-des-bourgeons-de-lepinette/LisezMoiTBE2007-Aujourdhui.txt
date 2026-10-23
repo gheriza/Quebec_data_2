@@ -1,0 +1,28 @@
+Dommages causés par la tordeuse des bourgeons de l’épinette
+(données 1992 à aujourd’hui)
+
+Le relevé aérien des dommages causés par la tordeuse des bourgeons de l’épinette (TBE) est effectué dans des secteurs préalablement déterminés en fonction des dommages de l’année précédente et des résultats des inventaires de prédiction des populations de cet insecte. Le travail de délimitation des superficies touchées par la TBE est fait du haut des airs, à bord d’un avion. Depuis 2002, le tracé numérique des observations s’effectue sur l’écran d’un ordinateur à écran tactile, à l’aide d’un stylet. Pour faciliter le travail de l’observateur, une carte topographique (1/50 000) défile en fond d’écran en suivant l’itinéraire de l’avion. 
+
+Cet inventaire aérien est effectué depuis un avion, selon les paramètres suivants :
+
+•Altitude : 240 m
+•Vitesse de l’avion : environ 160 km/h
+•Distance entre les lignes de vol : 4,5 km
+
+Cette opération permet au ministère des Forêts, de la Faune et des Parcs (MFFP) d’avoir une vue d’ensemble pour le Québec des dommages causés par la tordeuse des bourgeons de l’épinette. La précision des résultats est influencée par différents facteurs dont les paramètres de vol et les conditions climatiques. 
+
+Les classes de défoliation correspondent à la perte de feuillage annuel dans le houppier des essences vulnérables à la TBE (sapin baumier, épinette blanche et épinette noire). Dans la table attributaire (dbf), la classe de défoliation est inscrite dans le champ « Ia_année ». 
+
+Année 1992 et les suivantes 
+
+Le niveau de dommage correspond à la proportion des aiguilles perdues sur la pousse annuelle.
+
+Pour cette période, les classes de défoliation indiquées dans le champ « Ia_année » sont les suivantes :
+
+1. Défoliation légère = perte de feuillage dans le tiers supérieur du houppier de quelques arbres 
+2. Défoliation modérée = perte de feuillage dans la moitié supérieure du houppier de la majorité des arbres
+3: Défoliation grave = perte de feuillage sur toute la longueur du houppier de la majorité des arbres
+
+Depuis 1992, la Société de protection des forêts contre les insectes et maladies (SOPFIM) est mandatée par le MFFP pour préparer et mettre en application un programme de pulvérisations aériennes. Par conséquent, l’information relative aux secteurs traités contre la tordeuse des bourgeons de l'épinette est absente des fichiers numériques. Pour toute information additionnelle concernant les blocs de pulvérisations depuis 1992, adressez-vous directement  à la SOPFIM (www.sopfim.qc.ca).
+
+Mise à jour : 30 août 2017

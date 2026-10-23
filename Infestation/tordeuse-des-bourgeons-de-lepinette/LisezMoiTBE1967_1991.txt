@@ -1,0 +1,49 @@
+Dommages causés par la tordeuse des bourgeons de l’épinette
+(données historiques 1967 à 1991)
+
+Le relevé aérien des dommages causés par la tordeuse des bourgeons de l’épinette (TBE) est effectué dans des secteurs préalablement déterminés en fonction des dommages de l’année précédente et des résultats des inventaires de prédiction des populations de cet insecte. Le travail de délimitation des superficies touchées par la TBE est fait du haut des airs, à bord d’un avion. Le tracé des observations s’effectuait directement sur des cartes papier à l’échelle 1/50 000. 
+
+Cet inventaire aérien était effectué depuis un avion, selon les paramètres suivants :
+
+•Altitude : 240 m
+•Vitesse de l’avion : environ 160 km/h
+•Distance entre les lignes de vol : entre 4.8 et 6.4 km
+
+Cette opération permettait au ministère des Ressources naturelles (MRN) d’avoir une vue d’ensemble pour le Québec des dommages causés par la tordeuse des bourgeons de l’épinette. La précision des résultats était influencée par différents facteurs dont les paramètres de vol et les conditions climatiques. 
+
+La défoliation annuelle des arbres est évaluée en observant le pourcentage de perte des aiguilles sur la pousse annuelle. Dans la table attributaire (dbf), la classe de défoliation est inscrite dans le champ « Niveau ». 
+ 
+Données historiques de 1968 à 1991
+
+Ce fichier numérique est une compilation de défoliation pour les années 1968 à 1991. Il doit être utiliser de la façon suivante:
+
+Afin d'obtenir l'information désirée pour une année spécifique, vous devez appliquer une requête sur le champ « ANNEE ».
+Lorsque cette sélection est effectuée, il est alors possible d'obtenir l'intensité de la défoliation dans le champ « NIVEAU » et la superficie affectée dans le champ « SUPER_HA » pour l'année sélectionnée.
+
+Pour cette période, les classes de dommages causés par la tordeuse des bourgeons de l’épinette sont les suivantes :
+
+Classes de défoliation 
+
+0. Défoliation nulle (0 %)
+
+Évaluation à l’extérieur des aires traitées
+1. Défoliation légère : de 1 à 35 %
+2. Défoliation modérée : de 36 à 70 %
+3. Défoliation grave : de 71 à 100 %
+
+Évaluation dans les aires traitées
+4. Défoliation légère bloc : de 1 à 35 %
+5. Défoliation grave tête verte : de 36 à 50 %
+6. Défoliation modérée plus : de 51 à 70 %
+7. Défoliation grave bloc : de 71 à 100 %
+
+Classes de mortalité
+11 .Mortalité : de 0 à 25 %
+12. Mortalité : de 26 à 50 %
+13. Mortalité : de 51 à 75 %
+14. Mortalité : de 76 à 100 %
+15. Mortalité : de 100 %
+
+Mise à jour : janvier 2018
+
+
