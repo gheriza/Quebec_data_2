@@ -1,0 +1,42 @@
+Dommages causés par l'arpenteuse de la pruche
+(données de 1991 à aujourd'hui)
+
+Le relevé aérien des dommages causés par l'arpenteuse de la pruche est effectué dans des secteurs préalablement déterminés en fonction des dommages de l’année précédente et des résultats des inventaires de prédiction des populations de cet insecte. Le travail de délimitation des superficies touchées par l'arpenteuse de la pruche est fait du haut des airs, à bord d’un avion. Depuis 2003, le tracé numérique des observations s’effectue sur l’écran d’un ordinateur à écran tactile, à l’aide d’un stylet. Pour faciliter le travail de l’observateur, une carte topographique (1/50 000) défile en fond d’écran en suivant l’itinéraire de l’avion. 
+
+Cet inventaire aérien est effectué depuis un avion, selon les paramètres suivants :
+
+•Altitude : 240 m
+•Vitesse de l’avion : environ 160 km/h
+•Distance entre les lignes de vol : 4,5 km
+
+Cette opération permet au ministère des Ressources naturelles (MRN) d’avoir une vue d’ensemble pour le Québec des dommages causés par l'arpenteuse de la pruche. La précision des résultats est influencée par différents facteurs dont les paramètres de vol et les conditions climatiques. 
+
+La défoliation annuelle des arbres est évaluée en observant le pourcentage de perte des aiguilles sur la pousse annuelle. Dans la table attributaire (dbf), la classe de défoliation est inscrite dans le champ « NIVEAU ». 
+
+Ce fichier numérique est une compilation des secteurs défoliés pour les années 1991 à aujourd'hui. Il doit être utilisé de la façon suivante.
+
+Afin d'obtenir de l'information pour une année particulière, vous devez appliquer une requête sur le champ « ANNEE ».
+
+Lorsque cette sélection est effectuée, il est possible d'obtenir l'intensité de la défoliation dans le champ « NIVEAU » et la superficie affectée dans le champ « SUPER_HA » pour l'année sélectionnée.
+
+Depuis 1992, la Société de protection des forêts contre les insectes et maladies (SOPFIM) est mandatée par le MRN pour préparer et mettre en application un programme de pulvérisations aériennes. Par conséquent, l’information relative aux secteurs traités contre l'arpenteuse de la pruche est absente des fichiers numériques. Pour toute information additionnelle concernant les pulvérisations depuis 1992, adressez-vous directement à la SOPFIM (www.sopfim.qc.ca).
+
+Les classes de dommage indiquées dans le champ « NIVEAU » sont les suivantes :
+
+Classes de défoliation
+
+1. Légère : perte de feuillage dans le tiers supérieur de la cime de quelques arbres;
+2. Modérée : perte de feuillage dans le tiers supérieur de la cime de la majorité des arbres et sur toute la longueur de la cime de certains arbres;
+3. Grave : perte de feuillage sur toute la longueur de la cime de la majorité des arbres.
+
+Classes de mortalité
+
+54. Mortalité : de 1 à 25 % 
+55. Mortalité : de 26 à 50 %
+56. Mortalité : de 51 à 75 %
+57. Mortalité : de 76 à 100 %
+
+Les autres classes  sont :
+
+8.   Intervention forestière, coupe totale
+99. Dommages observés à l'aide d'imagerie satellitaire
