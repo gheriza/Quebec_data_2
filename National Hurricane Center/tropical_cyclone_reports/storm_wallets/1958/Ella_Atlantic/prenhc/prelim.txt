@@ -1,0 +1,189 @@
+HURRICANE ELLA
+
+The following is the directory structure used for hurricane ELLA in the
+Hurricane Wallet Digital Archives.  The first level of subdirectory is the 
+year (e.g. AD1958) and all directories subordinate will have data for storms
+which occurred in that year.  The README.TXT file in the AD1958
+directory is the directory structure for the 1958 digital archives.
+
+The second level of subdirectories are labeled by the storm name.  In 1958 we
+had Alma, Becky, Cleo, Daisy, Ella, Fifi, Gerda, Helene, Ilsa, and Janice.  
+The README.TXT file in this directory lists and summarizes the
+files archived for hurricane ELLA.
+
+The third level of directories are labeled by a name, acronym, or mnemonic
+related to the data contained in that directory. Types of files are: *.GIF files
+are graphics files, *.TXT files are ASCII text files, and *.WPD files are in
+WordPerfect 6.2.
+
+Directory PATH listing
+D:.
+³   README.TXT -    this file
+³   
+ÃÄÄÄOPLTRACK   -    maps of the storm track
+³       TRACK1.GIF  -     Each numeral is a different map.
+³       TRACK2.GIF        
+³       TRACK3.GIF        
+³       TRACK4.GIF
+³       
+ÃÄÄÄPRENHC     -    NHC preliminary report
+³       PRELIM01.GIF      -   preliminary report cover
+³       PRELIM02.GIF      -      "           "      page    2
+³       PRELIM03.GIF      -      "           "    "    3
+³       PRELIM04.GIF      -   etc.
+³       PRELIM05.GIF
+³       PRELIM06.GIF
+³       PRELIM07.GIF
+³       PRELIM08.GIF
+³       PRELIM09.GIF
+³       PRELIM10.GIF
+³       PRELIM11.GIF
+³       PRELIM12.GIF
+³       PRELIM13.GIF
+³       PRELIM14.GIF
+³       PRELIM15.GIF
+³       PRELIM16.GIF
+³       PRELIM17.GIF
+³       PRELIM18.GIF
+³       PRELIM19.GIF
+³       PRELIM20.GIF
+³       PRELIM21.GIF
+³       PRELIM22.GIF
+³       PRELIM23.GIF
+³       PRELIM24.GIF
+³       PRELIM25.GIF
+³       PRELIM26.GIF
+³       PRELIM.TXT  -     preliminary report in ASCII text
+³       PRELIM.WPD  -     preliminary report in WordPerfect 6.2
+³       NEW-1.GIF   -     graphic for PRELIM.WPD
+³       
+ÃÄÄÄRADARDAT   -    radar reports
+³       041104Z.GIF -     09/04 1104 UTC (Z) 
+³       041105C.GIF -     Usually several reports have been scanned in one *.GIF.  The
+³       041400Z.GIF       time listed in the file name is usually the latest report.
+³       
+ÃÄÄÄSFCDAT     -    surface weather observations.
+³       SAOBRJ.GIF  -     Burwood LA observations
+³       SA0501Z.GIF -     other airways surface observations
+³       SHIPS1.GIF  -     ship synoptic observations
+³       SHIPS2.GIF  -     ship synoptic observations
+³       SAOBIX.GIF  -     Keesler AFB MS (Biloxi) observations
+³       
+ÃÄÄÄNEWS       -    news media reports
+³       NEWS0905.GIF -    Miami Herald 09/05/58
+³       NEW0904B.GIF -    Miami Herald 09/04/58
+³       NEW0904A.GIF -    Miami Herald 09/04/58
+³       
+ÃÄÄÄPRELOC     -    local WBAS, WFO, WFSO, WFO or other post storm reports
+³       PSHNEW.GIF  -     New Orleans
+³       PSHTJSJ1.GIF      -   San Juan page 1
+³       PSHTJSJ2.GIF      -      "     "       "  2           
+³       PSHTJSJ3.GIF      -                  3
+³       PSHTJSJ4.GIF      -                  4
+³       PSHGNV.GIF  -     Gainsville FL
+³       PSHEYW.GIF  -     Key West FL
+³       PSHMTPP1.GIF -    Port-au-Prince, Haiti page 1
+³       PSHMTPP2.GIF -        "       "          "       2       
+³       PSHMTPP3.GIF -                              3
+³       PSHMTPP4.GIF -                              4
+³       PSHMDSD1.GIF -    Santo Domingo, Dominican Republic page 1    
+³       PSHMDSD2.GIF -        "          "        "                "          "   2
+³       PSHMDSD3.GIF -    Santo Domingo, Dominican Republic page 3
+³       PSHMDSD4.GIF -        "          "        "                "          "   4
+³       PSHMDSD5.GIF -                                   5
+³       PSHMUHA2.GIF-     Havana, Cuba
+³       PSHVCT.GIF  -     Victoria TX
+³       PSHMKC.GIF  -     1958 version of National Storm Prediction Center
+³       PSHBRO.GIF  -     Brownsville TX
+³       PSHHOU.GIF  -     Houston TX
+³       PSHGLS.GIF  -     Galveston TX
+³       
+ÃÄÄÄMODELIN    -    data input for numerical calculations
+³       M083112Z.GIF      -   08/31 1200 UTC (Z)
+³       M091000Z.GIF      -   etc.
+³       M090112Z.GIF
+³       M090200Z.GIF
+³       M090212Z.GIF
+³       M090300Z.GIF
+³       M090318Z.GIF
+³       M090400Z.GIF
+³       M090406Z.GIF
+³       M090412Z.GIF
+³       M090418Z.GIF
+³       M090506Z.GIF
+³       MB90506Z.GIF      -   this one labeled for same time as another.
+³       A0312Z.GIF  -     a gridded worksheet
+³       A0200Z.GIF
+³       A0400Z.GIF
+³       A0500Z.GIF
+³       A0100Z.GIF
+³       A3112Z.GIF
+³       A3100Z.GIF
+³       
+ÃÄÄÄWORKSHT    -    worksheets for coordination calls
+³       W083105Z.GIF      -   08/31 0500 UTC (Z)
+³       W083108Z.GIF          etc.
+³       W083110Z.GIF
+³       W083114Z.GIF
+³       W083116Z.GIF
+³       W090200Z.GIF
+³       W083122Z.GIF
+³       W090101Z.GIF
+³       W090118Z.GIF
+³       W083100Z.GIF
+³       W090103Z.GIF
+³       W090110Z.GIF
+³       W090114Z.GIF
+³       W090122Z.GIF
+³       W090100Z.GIF
+³       W090201Z.GIF
+³       W090203Z.GIF
+³       W090208Z.GIF
+³       W090210Z.GIF
+³       W090214Z.GIF
+³       W090216Z.GIF
+³       W090220Z.GIF
+³       W090222Z.GIF
+³       W090301Z.GIF
+³       W090303Z.GIF
+³       W090308Z.GIF
+³       W090309Z.GIF
+³       W090313Z.GIF
+³       W090316Z.GIF
+³       W090319Z.GIF
+³       W090322Z.GIF
+³       W090510Z.GIF
+³       W090403Z.GIF
+³       W090408Z.GIF
+³       W090409Z.GIF
+³       W090414Z.GIF
+³       W090416Z.GIF
+³       W090420Z.GIF
+³       W090421Z.GIF
+³       W090422Z.GIF
+³       W090503Z.GIF
+³       W090401Z.GIF
+³       W090508Z.GIF
+³       W090514Z.GIF
+³       W090515Z.GIF
+³       W090520Z.GIF
+³       W090521Z.GIF
+³       W090601Z.GIF
+³       W090604Z.GIF
+³       W090610Z.GIF
+³       
+ÃÄÄÄSLOSHDAT   -    data on tides and waves
+³       GLS.GIF -   Galveston TX
+³       ARANSAS.GIF -     Aransas Pass TX
+³       GRNDISLE.GIF-     Grand Isle TX      
+³       MOBILE1.GIF -     Mobile AL
+³       MOBILE2.GIF -     Mobile AL
+³       SABINE.GIF  -     Sabine TX
+³       MISCUSCG.GIF-   miscellaneous U.S. Coast Guard reports
+³       
+ÃÄÄÄLOCAL      -    Hurricane Local Statements derived from storm forecasts
+³       HLSCRP.GIF  -     Corpus Cristi TX
+³       
+ÀÄÄÄRECONDAT   -    aircraft reconnaisance data
+        PIREPS.GIF  -     aviation pilot reports from various sources
+        TASKING.GIF -     tasking message to Navy
